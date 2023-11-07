@@ -1,0 +1,27 @@
+[
+    {
+        "Nombre": "Luis",
+        "Apellido": "Gonz\u00e1lez",
+        "Telf": "555-123-456"
+    },
+    {
+        "Nombre": "Mar\u00eda",
+        "Apellido": "Mart\u00ednez",
+        "Telf": "555-789-012"
+    },
+    {
+        "Nombre": "Carlos",
+        "Apellido": "Rodr\u00edguez",
+        "Telf": "555-234-567"
+    },
+    {
+        "Nombre": "Sof\u00eda",
+        "Apellido": "L\u00f3pez",
+        "Telf": "555-890-123"
+    },
+    {
+        "Nombre": "David",
+        "Apellido": "P\u00e9rez",
+        "Telf": "555-345-678"
+    }
+]
